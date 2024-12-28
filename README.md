@@ -49,30 +49,5 @@ This project focuses on developing a **Portfolio Optimization Model** for the In
 
 ---
 
-### **Future Enhancements**
-- Add advanced machine learning models (e.g., XGBoost).
-- Incorporate ensemble methods and hyperparameter tuning.
-- Perform backtesting for validation.
 
----
-
-### **Authors**
-- **Akshat Karnwal (2022052)**: Literature review and model building.
-- **Keshav Chhabra (2022247)**: Literature review and model building.
-- **Ramish Jamal (2022395)**: Model building and evaluation.
-- **Mohd Masood (2022299)**: Data preprocessing and model building.
-
----
-
-### **References**
-1. H. Markowitz, “Portfolio Selection,” *The Journal of Finance*, 1952.
-2. Y. Huang et al., “Machine Learning for Stock Prediction,” IEEE, 2021.
-3. X. Xu et al., “Dynamic Portfolio Optimization Using Deep Reinforcement Learning,” IEEE, 2021.
-4. [Additional references from the report]
-
----
-
-### **Usage**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Akshat22052/Stock-Market-Portfolio-Optimization.git
+   
